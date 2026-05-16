@@ -8,7 +8,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alpha-centauri99/alpha-centauri99/main/github-contribution-grid-snake.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alpha-centauri99/alpha-centauri99/main/github-contribution-grid-snake.svg">
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/alpha-centauri99/alpha-centauri99/main/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/alpha-centauri99/alpha-centauri99/main/github-contribution-grid-snake.svg">
 </picture>
 
 ---
