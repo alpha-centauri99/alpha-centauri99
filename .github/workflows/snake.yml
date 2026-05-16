@@ -27,7 +27,8 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
       - name: Push generated files
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
+        
         with:
           name: snake-animation
           path: dist/
