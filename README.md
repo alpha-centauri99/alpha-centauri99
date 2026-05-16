@@ -1,16 +1,56 @@
-## Hi there 👋
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    PROFILE SYSTEM v1.0                       ║
+║                     Initializing...                          ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<!--
-**alpha-centauri99/alpha-centauri99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alpha-centauri99/alpha-centauri99/main/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alpha-centauri99/alpha-centauri99/main/github-contribution-grid-snake.svg">
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/alpha-centauri99/alpha-centauri99/main/github-contribution-grid-snake.svg">
+</picture>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+┌──────────────────────────────────────────────────────────────┐
+│ SYSTEM INFORMATION                                           │
+├──────────────────────────────────────────────────────────────┤
+│ USER: alpha-centauri99                                       │
+│ STATUS: ONLINE                                               │
+│ TERMINAL: ACTIVE                                             │
+└──────────────────────────────────────────────────────────────┘
+```
+
+### /about
+
+Developer interested in building things. Exploring code and ideas across different domains.
+
+### /skills
+
+```
+[████████░░] PROGRAMMING
+[████████░░] PROBLEM SOLVING
+[██████░░░░] LEARNING
+[██████░░░░] COLLABORATION
+```
+
+### /projects
+
+Actively developing and exploring various technical interests. Check out repositories for details.
+
+### /contact
+
+```
+$ ping alpha-centauri99
+PINGING... response available in repositories
+```
+
+---
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║              LAST SYSTEM UPDATE: 2026-05-16                  ║
+╚══════════════════════════════════════════════════════════════╝
+```
